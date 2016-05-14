@@ -1,9 +1,9 @@
 [
   {
     "remote":      "github",
-    "repository":  "ashwinr64/android_kernel_oneplus_onyx",
+    "repository":  "Validus-Kernel/android_kernel_oneplus_onyx",
     "target_path": "kernel/oneplus/onyx",
-    "revision":    "cm-13.0"
+    "revision":    "6.0"
   },
   {
     "remote":      "github",
