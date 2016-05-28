@@ -103,13 +103,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     charger_res_images
 
-<<<<<<< HEAD
 # Doze
 PRODUCT_PACKAGES += \
     OnyxDoze
 
-=======
->>>>>>> f10e7de... Mod on device.mk
 # Graphics
 PRODUCT_PACKAGES += \
     copybit.msm8974 \
